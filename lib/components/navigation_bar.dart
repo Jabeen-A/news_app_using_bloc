@@ -28,7 +28,7 @@ class _NavigationBarState extends State<NavigationBar> {
         ),
         BottomNavigationBarItem(
           icon: Icon(
-            Icons.article,
+            Icons.article ,
             color: Color(0xff80003B),
             size: SizeConfig.screenWidth * 0.09,
           ),
